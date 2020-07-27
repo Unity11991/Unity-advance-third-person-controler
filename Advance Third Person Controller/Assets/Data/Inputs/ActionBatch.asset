@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14dbcf0348731de40a39026bae21a575, type: 3}
+  m_Name: ActionBatch
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: 10c9394074cbf954188c4e233c11a144, type: 2}
+  - {fileID: 11400000, guid: 161ae48043fb93045a4759ea5b49a6f7, type: 2}
+  - {fileID: 11400000, guid: 3b7b249b6569aae4a8b1a23d5e52fe85, type: 2}
+  - {fileID: 11400000, guid: 29fde07548a435c48bee7f1ee87aab40, type: 2}
